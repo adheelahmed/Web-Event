@@ -1,47 +1,12 @@
-Use The Branches To Edit Instead Of Main
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-
-Use This script includer in html @hadikka 
-
-also  name the image slider div as "carousel"
-
-also here is the link sheet inclusion for css
-
-<link rel="stylesheet" href="jquery.flipster.css">
-
-/********/
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="jquery-flipster.js"></script>
-<script>$('.carousel').flipster(
-
-{
-         style:'carousel',
-         spacing: 0.2,
-
-});
-      </script>
-      
-/********/
-
-ingale custom css file ith add aaku
-
-.abc{
-    position: relative;
-    top: 50px;
-    width: 100%; 
-    height: 800px;
-    overflow: hidden;
- 
- }
- 
- .abc .carousel{
-     overflow: visible;
- }
- .carousel img{
-     border-radius: 10px;
-     -webkit-box-reflect: below 20px linear-gradient(rgba(255,255,255, 0), rgba(255,255,255, .2));
- }
-
+Current Year Report - https://sias.edu.in/reports/cs/A003-Current%20Year%20Dept.%20Report%20to%20Website.pdf
+Annual Report 2019-2020 - https://sias.edu.in/reports/cs/A003-Current%20Year%20Dept.%20Report%20to%20Website.pdf
+Project Regulations - https://sias.edu.in/reports/cs/Project%20Regulations%20%202019-2020.pdf
+Result improvement activities 2019-2020 - https://sias.edu.in/reports/cs/Result%20Improvement%20activites.pdf
+International webinar - May 2020 - https://sias.edu.in/reports/cs/International%20Webinar%20on%20Cloud%20Computing.pdf
+Annual Report 18-19 - https://sias.edu.in/reports/cs/Annual%20report-18-19.pdf
+Annual Report 17-18 - https://sias.edu.in/reports/cs/naac_cs_2017_18.pdf
+Annual Report 16-17 - https://sias.edu.in/reports/cs/Report%202016-2017%20DECSAAP-.pdf
+Annual Report 15-16 - https://sias.edu.in/reports/cs/naac%20rpt_15_16-1%20final.pdf
+Annual Report 14-15 - https://sias.edu.in/reports/cs/Annual%20Report.pdf
+CS Competitive exam coaching 2016 - https://sias.edu.in/reports/cs/CS%20Competitive%20exam%20coaching%202016.pdf
+BCA CS Career guidance 2014 - https://sias.edu.in/reports/cs/BCA%20CS%20Career%20guidance%202014.pdf
