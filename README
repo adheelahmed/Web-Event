@@ -1,8 +1,11 @@
 Use The Branches To Edit Instead Of Main
 
 Use This script includer in html @hadikka 
-/********/
+
 also  name the image slider div as "carousel"
+
+/********/
+
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="jquery-flipster.js"></script>
 <script>$('.carousel').flipster(
