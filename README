@@ -1,9 +1,18 @@
-Extra Branch aakeet ndakano?
-angane aakanel nalle kaarnm 
-overwrite cheythal pazheth pokum 
-athond main confirmed only push cheytha mathi so vere 
-extra 3 branches open aaknm(total 4 including main)
-named 
-Adheel
-Hadi
-Swabeeh Respectively
+Use The Branches To Edit Instead Of Main
+
+Use This script includer in html @hadikka 
+/********/
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="jquery-flipster.js"></script>
+<script>$('.carousel').flipster(
+
+{
+         style:'carousel',
+         spacing: 0.2,
+
+});
+      </script>
+      
+/********/
+
