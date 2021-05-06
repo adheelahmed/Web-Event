@@ -1,5 +1,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+
 *{
     margin: 0;
     padding: 0;
@@ -233,6 +235,7 @@ html {
     text-align: center;
     padding-top: 1.5rem;
     padding-bottom: 1rem;
+
     
 }
 
@@ -248,4 +251,21 @@ html {
   top: -0.2rem;
 }
     
+}
+
+a:hover{
+  font-size: 2rem;
+  color: red;
+
+}
+
+.name{
+  text-decoration: none;
+  color: red;
+}
+
+
+.name:hover{
+  font-size: 2rem;
+  color: blue;
 }
